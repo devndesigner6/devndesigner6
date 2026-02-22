@@ -1,38 +1,35 @@
-# Hemanth Peddada
+# HEMANTH PEDDADA
+### // ENGINEER • DEVELOPER • BUILDER
 
-## // KAIZEN: The Relentless Pursuit of Better.
+> **KAIZEN [改善]**
+> "Starting from a blank slate, turning it into a finished product. 
+> Not just building software—refining the experience."
 
-```
-Engineer. Developer. Builder.
-I don't just build; I evolve. Every pixel, every function, a testament to continuous refinement.
-Transforming concepts into elegant, production-grade realities.
-```
+---
 
-## // ARCHITECT
+### 🛠 THE ARCHITECT
+**Frontend** // React • Next.js • TailwindCSS • Framer Motion
+**Backend** // Node.js • Express • Python • Langchain
+**Database** // MongoDB • Postgres • Prisma
+**Infrastructure** // AWS • Docker • Kubernetes • Git
 
-```
-Frontend: React, Next.js, TailwindCSS.
-Backend: Node.js, Express.js.
-Data: MongoDB, Postgres, Prisma.
-Cloud: AWS, Docker, Kubernetes.
-Languages: JavaScript, TypeScript, Python, C.
-```
+---
 
-## // CREATIONS
+### 🚀 SELECTED WORKS
+*   **EPHERA** // Markdown, distilled. Less noise, more flow.
+*   **USEGLIMMER** // Premium React components. Micro-interactions, redefined.
+*   **PICTOLAB** // Image alchemy. Transforming pixels into pictograms.
+*   **SITEPING** // Digital sentinel. Stay organized, never miss a beat.
+*   **DARKVISION** // Adaptive clarity. Custom dark modes for the modern web.
 
-```
-Ephera: Markdown, distilled.
-Useglimmer: Animated React, redefined.
-PictoLab: Image alchemy, perfected.
-SitePing: Web vigilance, automated.
-DarkVision: Adaptive dark mode, reimagined.
-```
+---
 
-## // CONNECT
+### 📈 TRAJECTORY
+*   **GSOC '25** // Shipped production features to thousands.
+*   **INSPIRE LEAP** // Engineered AI-driven healthcare systems.
+*   **INAMIGOS** // Visual communication with purpose.
 
-```
-LinkedIn: [Hemanth Peddada](https://www.linkedin.com/in/hemanth-peddada-7a34a8273)
-X: [@Hemanttbuilds](https://x.com/Hemanttbuilds)
-Instagram: [nenuphemanth](https://www.instagram.com/nenuphemanth?igsh=MWZ5NHd5YmNiMG5yYg==)
-Email: peddadahemanth6@gmail.com
-```
+---
+
+### 🌐 CONNECT
+[LinkedIn](https://www.linkedin.com/in/hemanth-peddada-7a34a8273 ) • [X / Twitter](https://x.com/Hemanttbuilds ) • [Instagram](https://www.instagram.com/nenuphemanth ) • [Email](mailto:peddadahemanth6@gmail.com)
